@@ -1,6 +1,6 @@
 # Build a Survey Form
 
-# Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
+Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
 
 User Stories:
 
@@ -22,6 +22,6 @@ User Stories:
 16. Inside the form element, you are presented with a button with id of submit to submit all the inputs
 
 
-# Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
