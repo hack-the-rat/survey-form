@@ -6,8 +6,18 @@
     </head>
 
     <body>
-        <h1 id="title">New Jersey City Survey Form</h1>
-        <p id="description">Thank you for taking the time to help us improve our city.</p>
-        <form id="survey-form"></form>
+        <header class="header">
+            <h1 id="title">New Jersey City Survey Form</h1>
+            <p id="description">
+                Thank you for taking the time to help us improve our city.
+            </p>
+        </header>
+        <form id="survey-form">
+            <fieldset class="form-group">
+                <legend>Personal Information</legend>
+                <label for="name" id="name-label">Name</label>
+                <input type="text" id="name" name="name" class="form-control" placeholder="e.g., John Doe" required size="20">
+            </fieldset>
+        </form>
     </body>
 </html>
